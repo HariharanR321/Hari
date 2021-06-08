@@ -4,7 +4,7 @@
   <artifactId>Main_Project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+		<!-- https://mvnrepository.com/artifact/org.testng/testng123 -->
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
